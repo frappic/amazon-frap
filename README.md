@@ -3,8 +3,9 @@ This is an extension / build off of https://github.com/megadose/ignorant <<<<---
 I made this so you can run a list of numbers rather than just 1 at a time...
 
 #######
-####### TO DO:  Trying to figure out a way to make it process threads  
-quicker as this is my first time implementing them, I'm not too savy with multiprocessing or threading.
+####### TO DO:<br>
+
+Create function that cuts checked numbers from list. Made so you can stop and start without having to start from the beginning.
 
 ----------------------------------------------------------
 
