@@ -11,7 +11,7 @@ quicker as this is my first time implementing them, I'm not too savy with multip
 #######
 To Run:
 Instrustions
-#######
+#######<br>
 PREREQUISITE = Python 3 "https://www.python.org/ftp/python/3.10.7/python-3.10.7-amd64.exe"
 
 
@@ -38,9 +38,9 @@ For the numberlist.txt:
 no ()'s or -'s, only integers
 ex:
 
-3133133131
-1231234567
-2222222222
+3133133131<br>
+1231234567<br>
+2222222222<br>
 
 
 
